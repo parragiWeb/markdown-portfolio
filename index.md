@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-![this is my pic](https://media.gettyimages.com/photos/isolated-honeybee-picture-id117307019?s=2048x2048)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 <br>
 
