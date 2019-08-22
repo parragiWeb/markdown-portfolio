@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-{% include 02-image.md %}
+![this is my pic](https://media.gettyimages.com/photos/isolated-honeybee-picture-id117307019?s=2048x2048)
 
 <br>
 
