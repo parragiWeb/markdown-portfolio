@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- [ ] list item 1 *italic* and _italic_
+- [x] list item 2  **bold** and __bold__
+- list item 2.1 combined *italic __and__ bold*
+- [ ] list item 3 __or *bold* in italic__
