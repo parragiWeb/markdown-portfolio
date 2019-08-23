@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+-[] list item 1
+-[x] list item 2
+-[] list item 2.1
+- 
+-[] list item 3
